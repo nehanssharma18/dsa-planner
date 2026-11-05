@@ -1,5 +1,5 @@
 // Bump this version whenever you change index.html so users get the update.
-const CACHE = "dsa-planner-v1";
+const CACHE = "dsa-planner-v2";
 const FILES = ["./", "index.html", "manifest.json", "icon-192.png", "icon-512.png"];
 
 // 1. Install: download and store the app files for offline use.
